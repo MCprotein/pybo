@@ -1,5 +1,6 @@
 ### custom ###
 secrets.json
+logs
 # Created by https://www.toptal.com/developers/gitignore/api/intellij,django,python,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij,django,python,macos
 
